@@ -1,4 +1,4 @@
-# Compare and contrast a Platform Engineer and a DevOps Engineer
+# Platform Engineer vs DevOps Engineer
 
 Platform Engineering and DevOps are complementary disciplines in modern software
 development, often misunderstood as competing roles. While DevOps emphasizes
