@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [What is OpenTelemetry?](#what-is-opentelemetry)
+- [OpenTelemetry](#opentelemetry)
 - [Core Components](#core-components)
 - [How OpenTelemetry Works](#how-opentelemetry-works)
 - [Benefits of OpenTelemetry](#benefits-of-opentelemetry)
@@ -11,7 +11,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## What is OpenTelemetry?
+## OpenTelemetry
 
 OpenTelemetry is an **open-source, vendor-neutral observability framework**
 developed under the Cloud Native Computing Foundation (CNCF). It standardizes
