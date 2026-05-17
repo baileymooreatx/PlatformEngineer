@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Platform Engineer](#platform-engineer)
+  - [Position Overview](#position-overview)
+  - [Key Responsibilities](#key-responsibilities)
+  - [Basic Qualifications](#basic-qualifications)
+  - [Useful Experience](#useful-experience)
+  - [What Success Looks Like](#what-success-looks-like)
+  - [Compensation & Benefits](#compensation--benefits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Platform Engineer
 
 ### Position Overview

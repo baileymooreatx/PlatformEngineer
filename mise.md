@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [mise](#mise)
+  - [Overview and Purpose](#overview-and-purpose)
+  - [Core Features](#core-features)
+    - [Dev Tool Version Management](#dev-tool-version-management)
+    - [Environment Variable Management](#environment-variable-management)
+    - [Task Runner](#task-runner)
+  - [Performance and Technical Advantages](#performance-and-technical-advantages)
+  - [Comparison with Other Tools](#comparison-with-other-tools)
+  - [Adoption and Community Reception](#adoption-and-community-reception)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # mise  
 
 ## Overview and Purpose  

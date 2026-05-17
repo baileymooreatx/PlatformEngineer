@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [uv](#uv)
+- [Key Features](#key-features)
+  - [Blazing Fast Performance](#blazing-fast-performance)
+  - [All-in-One Tool](#all-in-one-tool)
+  - [Comprehensive Project Management](#comprehensive-project-management)
+  - [Advanced Capabilities](#advanced-capabilities)
+- [Installation](#installation)
+- [Basic Usage](#basic-usage)
+- [Comparison with Other Tools](#comparison-with-other-tools)
+- [Getting Started Resources](#getting-started-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## uv
 
 Uv is a modern, high-performance Python package and project manager developed by

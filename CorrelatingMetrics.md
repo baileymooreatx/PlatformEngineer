@@ -1,4 +1,19 @@
-# Correlating Traditional and LLM Metrics  
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Correlating Metrics](#correlating-metrics)
+  - [Traditional Application Observability](#traditional-application-observability)
+  - [Key Metrics in Traditional Observability](#key-metrics-in-traditional-observability)
+  - [LLM and ML Observability: A Paradigm Shift](#llm-and-ml-observability-a-paradigm-shift)
+  - [Core LLM-Specific Metrics](#core-llm-specific-metrics)
+  - [Correlating Traditional and LLM Metrics](#correlating-traditional-and-llm-metrics)
+  - [Tools Enabling Unified Observability](#tools-enabling-unified-observability)
+  - [Best Practices for Integration](#best-practices-for-integration)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Correlating Metrics  
 
 ## Traditional Application Observability
 

@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [What is OpenTelemetry?](#what-is-opentelemetry)
+- [Core Components](#core-components)
+- [How OpenTelemetry Works](#how-opentelemetry-works)
+- [Benefits of OpenTelemetry](#benefits-of-opentelemetry)
+- [OpenTelemetry vs. Predecessors](#opentelemetry-vs-predecessors)
+- [Getting Started & Resources](#getting-started--resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## What is OpenTelemetry?
 
 OpenTelemetry is an **open-source, vendor-neutral observability framework**

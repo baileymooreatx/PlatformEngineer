@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Justfile](#justfile)
+  - [Key Features of Justfile](#key-features-of-justfile)
+  - [Why Developers Prefer Just to Make](#why-developers-prefer-just-to-make)
+  - [Use Cases](#use-cases)
+  - [Getting Started](#getting-started)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Justfile
 
 Justfile is a modern command runner designed to simplify and streamline task

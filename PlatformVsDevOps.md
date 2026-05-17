@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Platform Engineer vs DevOps Engineer](#platform-engineer-vs-devops-engineer)
+  - [Core Differences at a Glance](#core-differences-at-a-glance)
+  - [Primary Focus and Mindset](#primary-focus-and-mindset)
+  - [Scope of Work and Responsibilities](#scope-of-work-and-responsibilities)
+  - [Team Structure and Audience](#team-structure-and-audience)
+  - [Tools and Technology](#tools-and-technology)
+  - [Performance Metrics](#performance-metrics)
+  - [Career Path and Skills](#career-path-and-skills)
+  - [When to Hire Which Role](#when-to-hire-which-role)
+  - [Complementary, Not Competitive](#complementary-not-competitive)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Platform Engineer vs DevOps Engineer
 
 Platform Engineering and DevOps are complementary disciplines in modern software

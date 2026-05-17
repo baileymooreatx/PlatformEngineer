@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [GitHub Actions](#github-actions)
+- [Key Concepts](#key-concepts)
+- [Step-by-Step Guide to Creating Your First Workflow](#step-by-step-guide-to-creating-your-first-workflow)
+  - [Prerequisites](#prerequisites)
+  - [Step-by-step instructions](#step-by-step-instructions)
+- [Best Practices and Tips](#best-practices-and-tips)
+- [Further Learning Resources](#further-learning-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## GitHub Actions
 
 GitHub Actions is a powerful **CI/CD and automation platform** built directly

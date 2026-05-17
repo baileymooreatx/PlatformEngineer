@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DevPod](#devpod)
+- [Key Features and Advantages](#key-features-and-advantages)
+  - [Open-Source & No Vendor Lock-In](#open-source--no-vendor-lock-in)
+  - [Cost Efficiency](#cost-efficiency)
+  - [Cross-IDE Support](#cross-ide-support)
+  - [Infrastructure Flexibility](#infrastructure-flexibility)
+  - [Client-Only Architecture](#client-only-architecture)
+- [How DevPod Works](#how-devpod-works)
+- [Use Cases and Adoption](#use-cases-and-adoption)
+  - [Rapid Onboarding](#rapid-onboarding)
+  - [Secure Remote Development](#secure-remote-development)
+  - [Dev-Environments-as-Code](#dev-environments-as-code)
+  - [Hybrid Development Workflows](#hybrid-development-workflows)
+- [Getting Started with DevPod](#getting-started-with-devpod)
+  - [Installation](#installation)
+  - [Create a Workspace](#create-a-workspace)
+  - [Supported Providers](#supported-providers)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## DevPod
 
 DevPod is an **open-source, client-only tool** designed to create 

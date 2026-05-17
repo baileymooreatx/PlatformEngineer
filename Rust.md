@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Rust](#rust)
+- [Core Features and Design Principles](#core-features-and-design-principles)
+- [Performance and Safety](#performance-and-safety)
+- [Use Cases and Applications](#use-cases-and-applications)
+- [Learning Curve and Community](#learning-curve-and-community)
+- [Adoption and Industry Support](#adoption-and-industry-support)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Rust  
 
 Rust is a general-purpose, statically-typed programming language first created
