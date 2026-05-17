@@ -4,9 +4,9 @@
 
 - **Location**: Austin, TX (preferred)
 - **Job Type**: Full-time
-- **Work Environment**: Hybrid
-  Remote with regular in-person meetings in Austin,
-  Two days a week in our Austin Office  
+- **Work Environment**: Hybrid  
+  Remote with regular in-person meetings in Austin  
+  Two days a week in the Austin Office  
 
 ### Key Responsibilities
 
@@ -72,10 +72,10 @@
 
 ### Compensation & Benefits
 
-- **Pay (with equity)**: Salary/equity ratio dependent on candidate preferences,
+- Pay (with equity): Salary/equity ratio dependent on candidate preferences,
   skills, and qualifications
-- Comprehensive **medical, dental, and vision coverage**
-- **401(k) retirement plan**
+- Comprehensive medical, dental, and vision coverage
+- 401(k) retirement plan
 - Flexible work schedule
 - Opportunity to lead groundbreaking AI initiatives transforming the
   pharmaceutical industry
