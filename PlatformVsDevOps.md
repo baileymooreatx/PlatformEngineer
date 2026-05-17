@@ -133,7 +133,7 @@ The choice depends on **company size and maturity**:
 
 ## Complementary, Not Competitive
 
-Platform Engineering is **not replacing DevOps**—it’s enhancing it. As Gartner
+Platform Engineering is **not replacing DevOps**; it’s enhancing it. As Gartner
 predicts, by 2026, 80% of large software organizations will have dedicated
 platform engineering teams, up from 45% in 2022.
 

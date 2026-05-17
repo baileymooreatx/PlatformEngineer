@@ -32,9 +32,9 @@ numeric output stability, LLM observability deals with **non-deterministic,
 text-based outputs** and complex reasoning chains. LLMs can return different
 answers to the same input, making reproducibility difficult.
 
-As noted in the search results, **traditional monitoring may show "all green"
-while users receive incorrect or hallucinated responses**. This gap necessitates
-a new approach that goes beyond infrastructure health.
+**Traditional monitoring may show "all green" while users receive incorrect or 
+hallucinated responses**. This gap necessitates a new approach that goes beyond 
+infrastructure health.
 
 ## Core LLM-Specific Metrics
 
