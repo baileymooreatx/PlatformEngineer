@@ -61,7 +61,7 @@
 
 - Experience with **regulated industries** (pharmaceutical, medical device,
   finance)
-- Background with **compliance frameworks** (SOC 2, ISO 27001, GDPR)
+- Background with **[compliance frameworks](GxPCompliance.md)** (SOC 2, ISO 27001, GDPR)
 - **Observability platform experience** using OTel (Prometheus, Grafana, or
   modern alternatives)
 - Interest in modern development tools 
