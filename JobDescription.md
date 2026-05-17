@@ -69,7 +69,10 @@
   - [mise](mise.md)  
   - [devpod](devpod.md)  
   - [justfiles](justfiles.md)  
-- Experience with **LLM, vision, and other machine learning frameworks**
+- Experience with 
+  - [LLM](https://www.geeksforgeeks.org/deep-learning/large-language-model-llm-tutorial/)  
+  - [vision](Vision.md)  
+  - [other machine learning frameworks](https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR)  
 - Knowledge of **pharmaceutical manufacturing or quality systems**
 - Exposure to **[Rust](Rust.md), uv, justfile**, or other cutting-edge platform 
   tools  
