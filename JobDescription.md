@@ -54,7 +54,7 @@
 - Proficiency with **Infrastructure as Code (Terraform strongly preferred)**
 - **Python with type hints** for tooling and automation
 - Experience with **CI/CD pipelines (GitHub Actions preferred)**
-- Solid understanding of **containerization (Docker, Kubernetes)**
+- Solid understanding of **[containerization](Containers.md) (Docker, Kubernetes)**
 - Strong grasp of **networking, security, and secrets management**
 
 ### Useful Experience
